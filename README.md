@@ -63,6 +63,8 @@ If using our code, algorithms or models for your research, please cite [^1] or u
 	url = {https://doi.org/10.1007/978-3-032-10898-2_32},
 }
 
+```
+<!-- 
 @inproceedings{bbacic2024simple,
     author={Bačić, Boris and Vasile, Claudiu and Feng, Chengwei and Ciucă, Marian},
     title={Towards nation-wide analytical healthcare infrastructures: A privacy-preserving augmented knee rehabilitation case study},
@@ -72,7 +74,8 @@ If using our code, algorithms or models for your research, please cite [^1] or u
     date = {13-15 Dec.},
     address = {Sydney, NSW},
 }
-```
+-->
+
 If using **LaTeX** or **Overleaf**, to preserve Unicode/special characters, a recommended BibTeX format is:
 ```
 @book{bacic-2026,
@@ -85,6 +88,7 @@ If using **LaTeX** or **Overleaf**, to preserve Unicode/special characters, a re
 	doi = {10.1007/978-3-032-10898-2\{_}32},
 	url = {https://doi.org/10.1007/978-3-032-10898-2_32},
 }
+
 @inproceedings{bbacic2024simpleTeX,
     author={Ba{\vc}i{\'c}, B and Vasile, C and Feng, C and Ciuc{\ua}, M},
     title={Towards nation-wide analytical healthcare infrastructures: A privacy-preserving augmented knee rehabilitation case study},
