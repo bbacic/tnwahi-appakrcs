@@ -57,7 +57,7 @@ If using our code, algorithms or models for your research, please cite [^1] or u
 	booktitle = {Lecture notes in electrical engineering},
 	month = {1},
 	pages = {378--387},
-	title = {{Towards Nation-Wide Analytical Healthcare Infrastructures: A Privacy-Preserving Augmented Knee Rehabilitation Case Study}},
+	title = {Towards nation-wide analytical healthcare infrastructures: A privacy-preserving augmented knee rehabilitation case study},
 	year = {2026},
 	doi = {10.1007/978-3-032-10898-2\{_}32},
 	url = {https://doi.org/10.1007/978-3-032-10898-2_32},
@@ -83,12 +83,14 @@ If using **LaTeX** or **Overleaf**, to preserve Unicode/special characters, a re
 	booktitle = {Lecture notes in electrical engineering},
 	month = {1},
 	pages = {378--387},
-	title = {{Towards Nation-Wide Analytical Healthcare Infrastructures: A Privacy-Preserving Augmented Knee Rehabilitation Case Study}},
+	title = {Towards nation-wide analytical healthcare infrastructures: A privacy-preserving augmented knee rehabilitation case study},
 	year = {2026},
 	doi = {10.1007/978-3-032-10898-2\{_}32},
 	url = {https://doi.org/10.1007/978-3-032-10898-2_32},
 }
 
+```
+<!--
 @inproceedings{bbacic2024simpleTeX,
     author={Ba{\vc}i{\'c}, B and Vasile, C and Feng, C and Ciuc{\ua}, M},
     title={Towards nation-wide analytical healthcare infrastructures: A privacy-preserving augmented knee rehabilitation case study},
@@ -98,8 +100,7 @@ If using **LaTeX** or **Overleaf**, to preserve Unicode/special characters, a re
     date = {13-15 Dec.},
     address = {Sydney, NSW},
 }
-```
-
+-->
 
 &nbsp;
 ### Contributors
