@@ -52,6 +52,17 @@ output_csv: Path for output CSV file
 ### Citation
 If using our code, algorithms or models for your research, please cite [^1] or use BibTeX format:
 ```
+@book{bacic-2026,
+	author = {Bačić, Boris and Vasile, Claudiu and Feng, Chengwei and Ciucă, Marian G.},
+	booktitle = {Lecture notes in electrical engineering},
+	month = {1},
+	pages = {378--387},
+	title = {{Towards Nation-Wide Analytical Healthcare Infrastructures: A Privacy-Preserving Augmented Knee Rehabilitation Case Study}},
+	year = {2026},
+	doi = {10.1007/978-3-032-10898-2\{_}32},
+	url = {https://doi.org/10.1007/978-3-032-10898-2_32},
+}
+
 @inproceedings{bbacic2024simple,
     author={Bačić, Boris and Vasile, Claudiu and Feng, Chengwei and Ciucă, Marian},
     title={Towards nation-wide analytical healthcare infrastructures: A privacy-preserving augmented knee rehabilitation case study},
@@ -64,6 +75,16 @@ If using our code, algorithms or models for your research, please cite [^1] or u
 ```
 If using **LaTeX** or **Overleaf**, to preserve Unicode/special characters, a recommended BibTeX format is:
 ```
+@book{bacic-2026,
+	author = {Ba{\vc}i{\'c}, and Vasile, Claudiu and Feng, Chengwei and Ciuc{\ua}, Marian G.},
+	booktitle = {Lecture notes in electrical engineering},
+	month = {1},
+	pages = {378--387},
+	title = {{Towards Nation-Wide Analytical Healthcare Infrastructures: A Privacy-Preserving Augmented Knee Rehabilitation Case Study}},
+	year = {2026},
+	doi = {10.1007/978-3-032-10898-2\{_}32},
+	url = {https://doi.org/10.1007/978-3-032-10898-2_32},
+}
 @inproceedings{bbacic2024simpleTeX,
     author={Ba{\vc}i{\'c}, B and Vasile, C and Feng, C and Ciuc{\ua}, M},
     title={Towards nation-wide analytical healthcare infrastructures: A privacy-preserving augmented knee rehabilitation case study},
