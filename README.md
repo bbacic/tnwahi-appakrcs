@@ -11,6 +11,7 @@ This project implements a methodology for analysing knee angles from video foota
 >
 
 [^1]: Bačić, B., Claudiu Vasile, Feng, C., & Ciucă, M. G. (2024, 13-15 Dec.). *Towards nation-wide analytical healthcare infrastructures: A privacy-preserving augmented knee rehabilitation case study*. Presented at the meeting of the Conference on Innovative Technologies in Intelligent Systems & Industrial Applications (CITISIA 2024), Sydney, NSW. [In print].
+Bačić, B., Vasile, C., Feng, C., & Ciucă, M. G. (2026). Towards Nation-Wide Analytical Healthcare Infrastructures: A Privacy-Preserving Augmented Knee Rehabilitation Case Study. In Lecture notes in electrical engineering (pp. 378–387). https://doi.org/10.1007/978-3-032-10898-2_32
 [^2]: Bačić, B., Claudiu Vasile, Feng, C., & Ciucă, M. G. (2024, 13-15 Dec.). _Towards nation-wide analytical healthcare infrastructures: A privacy-preserving augmented knee rehabilitation case study_. Presented at the meeting of the Conference on Innovative Technologies in Intelligent Systems & Industrial Applications (CITISIA 2024), Sydney, NSW. [ArXiv.org preprint]. Accessed 31 Dec. 2024 at: https://arxiv.org/abs/2412.20733.
 
 ## Features
